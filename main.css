@@ -5,17 +5,20 @@ html {
 
 h1 {
 	background-color: skyblue;
-	font: "Times New Roman", sans-serif;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 2.5em;
 	letter-spacing: 1px;
 	margin-bottom: 0;
 	color: black;
 }
 
 body { 
-	font: 100% "Times New Roman", sans-serif;
+	font-family: "Times New Roman", Times, serif;
 	line-height: 1.88889;
+	font-size: 1em;
 	background-color: skyblue;
 	color: saddlebrown;
 	margin: 0; 
 	padding: 0;
 }
+
